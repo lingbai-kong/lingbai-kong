@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=lingbai-kong&show_icons=true&theme=light&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&theme=light&layout=compact)
+
 <!--
 **lingbai-kong/lingbai-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

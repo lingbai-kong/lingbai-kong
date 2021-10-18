@@ -28,9 +28,6 @@
 <h2></h2>
 
 <p align="center">
-  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="343" height="220" alt="klb's Top Langs"> 
-  </a>
   <br>
   <strong>Languages and Frameworks</strong>
   <br><br>
@@ -43,6 +40,10 @@
   <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
   <br>
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Top Langs"> 
+  </a>
+  <br><br>
   <strong>Tools and Environments</strong>
   <br><br>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>

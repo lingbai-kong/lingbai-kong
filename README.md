@@ -2,7 +2,7 @@
 <h2></h2>
 <p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" width="600" height="250" alt="klb's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Stats" >
   </a>
 </p>                                                                                                                              
 <p align="center">
@@ -30,7 +30,7 @@
 <p align="center">
   <br>
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="600" height="250"  alt="klb's Top Langs"> 
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="343" height="220"  alt="klb's Top Langs"> 
   </a>
   <br><br>
   <strong>Languages and Frameworks</strong>

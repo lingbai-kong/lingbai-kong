@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm konglingbai 👋
+<h2></h2>
+- 🔭 I’m currently working on traffic data mining
+- 🌱 I’m currently learning pytorch
+- 💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
+- 📫 My hometown: yuci,shanxi,china
 <h2></h2>
 <p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
@@ -50,7 +55,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/archlinux/archlinux.png" alt="Manjaro" title="Manjaro"></code>
 </p>
-
+<h2></h2>
 <!--
 **lingbai-kong/lingbai-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

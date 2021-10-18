@@ -1,6 +1,39 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lingbai-kong&show_icons=true&theme=light&count_private=true)
+<br>
+
+<p align="center">
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Stats" >
+  </a>
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777 alt="klb's Top Langs">
+  </a>
+</p>
+                                                                                                                                  
+<p align="center">
+  <a href="https://blog.csdn.net/qq_21496041" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  </a>
+  <br><br>
+  <strong>Check out my work below!</strong>
+  <br><br>
+  <a href="https://github.com/lingbai-kong">
+    <img src="https://badges.pufler.dev/visits/lingbai-kong/lingbai-kong?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/lingbai-kong">
+    <img src="https://badges.pufler.dev/years/lingbai-kong?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/lingbai-kong?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/lingbai-kong?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/lingbai-kong">
+    <img src="https://badges.pufler.dev/gists/lingbai-kong?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/lingbai-kong">
+    <img src="https://badges.pufler.dev/commits/monthly/lingbai-kong?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&theme=light&layout=compact)
 

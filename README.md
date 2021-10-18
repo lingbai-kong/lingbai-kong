@@ -2,7 +2,7 @@
 <h2></h2>
 <p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" width="640" height="480" alt="klb's Stats" >
   </a>
 </p>                                                                                                                              
 <p align="center">
@@ -29,6 +29,10 @@
 
 <p align="center">
   <br>
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="640" height="480"  alt="klb's Top Langs"> 
+  </a>
+  <br><br>
   <strong>Languages and Frameworks</strong>
   <br><br>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
@@ -39,10 +43,6 @@
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
   <code><img height="20" src="OctoCharmve/pytorch-logo.png" alt="PyTorch" title="PyTorch"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-  <br>
-  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Top Langs"> 
-  </a>
   <br><br>
   <strong>Tools and Environments</strong>
   <br><br>

@@ -6,6 +6,8 @@
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Stats" >
   </a>
+</p> 
+<p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777 alt="klb's Top Langs">
   </a>
@@ -26,9 +28,6 @@
   </a>
   <a href="https://github.com/lingbai-kong?tab=repositories">
     <img src="https://badges.pufler.dev/repos/lingbai-kong?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/lingbai-kong">
-    <img src="https://badges.pufler.dev/gists/lingbai-kong?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/lingbai-kong">
     <img src="https://badges.pufler.dev/commits/monthly/lingbai-kong?style=flat-square&color=black&logo=github">

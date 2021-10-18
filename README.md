@@ -26,7 +26,7 @@
   </a>
 </p>
 <h2></h2>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="600" height="220" alt="klb's Top Langs"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Top Langs"> 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 **Languages and Frameworks**

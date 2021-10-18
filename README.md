@@ -27,7 +27,14 @@
 </p>
 <h2></h2>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Top Langs" >
+  </a>
+</p>
+
+
 <!--
 **lingbai-kong/lingbai-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,13 @@
 ### Hi, I'm konglingbai 👋
 <h2></h2>
-- 🔭 I’m currently working on traffic data mining
-- 🌱 I’m currently learning pytorch
-- 💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
-- 📫 My hometown: yuci,shanxi,china
+🔭 I’m currently working on traffic data mining
+<br>
+🌱 I’m currently learning pytorch
+<br>
+💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
+<br>
+📫 My hometown: yuci,shanxi,china
+<br>
 <h2></h2>
 <p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">

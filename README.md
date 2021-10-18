@@ -26,8 +26,12 @@
   </a>
 </p>
 <h2></h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="343" height="220" alt="klb's Top Langs"> 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingbai-kong&title_color=333&text_color=777" width="343" height="220" alt="klb's Top Langs"> 
+  </a>
+</p>
 
 **Languages and Frameworks**
 

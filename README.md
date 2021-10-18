@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<br>
-
+<h2></h2>
 <p align="center">
   <a href="https://github.com/lingbai-kong" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=lingbai-kong&title_color=333&text_color=777" alt="klb's Stats" >
@@ -27,7 +25,7 @@
     <img src="https://badges.pufler.dev/commits/monthly/lingbai-kong?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
+<h2></h2>
 <!--
 **lingbai-kong/lingbai-kong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 <br>
 💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
 <br>
-📫 Email: oc371 at tongji.edu.cn
+📫 Email: konglinghundred@foxmail.com
 <br>
 <h2></h2>
 <p align="center">

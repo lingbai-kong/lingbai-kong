@@ -1,12 +1,12 @@
 ### Hi, I'm konglingbai 👋
 <h2></h2>
-🔭 I’m currently working on traffic data mining
+🔭 I’m currently working on spatio-temporal data analysis
 <br>
 🌱 I’m currently learning pytorch
 <br>
 💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
 <br>
-📫 My hometown: yuci,shanxi,china
+📫 Email: oc371 at tongji.edu.cn
 <br>
 <h2></h2>
 <p align="center">

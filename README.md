@@ -1,8 +1,8 @@
 ### Hi, I'm konglingbai 👋
 <h2></h2>
-🔭 I’m currently working on spatio-temporal data analysis
+🔭 I’m currently working on the interpretability of GNNs
 <br>
-🌱 I’m currently learning pytorch
+🌱 I’m currently learning spring boot
 <br>
 💬 Ask me about cpp, verilog, python, qt, vue, flask, mysql, tensorflow, manjaro
 <br>

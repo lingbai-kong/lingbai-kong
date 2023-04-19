@@ -4,7 +4,7 @@
 <br>
 🌱 My research interests include spatio-temporal data mining, interpretability and causal discovery.
 <br>
-💬 I'm currently learning Spring Boot and Vue.js.
+💬 I'm also learning Spring Boot and Vue.js.
 <br>
 📫 Email: konglinghundred@foxmail.com
 <br>

@@ -1,5 +1,4 @@
 ### Hi, I'm konglingbai 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lingbai-kong.lingbai-kong)
 <h2></h2>
 🔭 I’m currently working toward the M.Sc. degree at the Advanced Data and Machine Intelligence Systems(ADMIS) Lab (https://admis.tongji.edu.cn/main.htm), Department of Computer Science and Technology, Tongji University.
 <br>

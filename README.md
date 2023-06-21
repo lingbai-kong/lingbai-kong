@@ -2,9 +2,9 @@
 <h2></h2>
 🔭 I’m currently working toward the M.Sc. degree at the Advanced Data and Machine Intelligence Systems(ADMIS) Lab (https://admis.tongji.edu.cn/main.htm), Department of Computer Science and Technology, Tongji University.
 <br>
-🌱 My research interests include spatio-temporal data mining, interpretability and causal discovery.
+🌱 My research interests include spatio-temporal data mining, XAI and causal discovery.
 <br>
-💬 I'm also learning Spring Boot and Vue.js.
+💬 I'm also learning .NET, Spring Boot and Vue.js.
 <br>
 📫 Email: konglinghundred@foxmail.com
 <br>

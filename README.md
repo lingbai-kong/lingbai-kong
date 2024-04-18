@@ -2,6 +2,8 @@
 <h2></h2>
 🔭 I’m currently working toward the M.Sc. degree at the Advanced Data and Machine Intelligence Systems(ADMIS) Lab (https://admis.tongji.edu.cn/main.htm), Department of Computer Science and Technology, Tongji University.
 <br>
+🎯 I‘m undertaking an internship at TikTok this year (2024), focusing on the optimization of the recommendation algorithm for newly posted videos.
+<br>
 🌱 My research interests include XAI (eXplainable AI), causal discovery, and spatio-temporal data mining.
 <br>
 💬 I'm also a contributor to TensorFlow.NET and a full-stack developer of the management system of the Nanjing-Metor training base.

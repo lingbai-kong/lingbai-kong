@@ -1,10 +1,10 @@
 ### Hi, I'm Dred 👋
 <h2></h2>
-🔭 I’m currently working toward the M.Sc. degree at the Advanced Data and Machine Intelligence Systems(ADMIS) Lab (https://admis.tongji.edu.cn/main.htm), Department of Computer Science and Technology, Tongji University.
+🎯 I'm currently working at Tiktok as a recommendation algorithm engineer, aiming at a more intelligent content platform.
 <br>
-🎯 I‘m undertaking an internship at TikTok this year (2024), focusing on the optimization of the recommendation algorithm for newly posted videos.
+🔭 I recevieved my M.Sc. degree in 2025 at the Advanced Data and Machine Intelligence Systems (ADMIS) Lab (https://admis-tongji.github.io/), School of Computer Science and Technology, Tongji University.
 <br>
-🌱 My research interests include XAI (eXplainable AI), causal discovery, and spatio-temporal data mining.
+🌱 My research interests include RS (Recommendation System), XAI (eXplainable AI), causal discovery, and spatio-temporal data mining.
 <br>
 💬 I'm also a contributor to TensorFlow.NET and a full-stack developer of the management system of the Nanjing-Metor training base.
 <br>
